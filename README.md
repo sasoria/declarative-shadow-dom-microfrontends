@@ -6,8 +6,10 @@ This example shows how to stream in microfrontends that are rendered on the serv
 
 ### Microfrontends
 
+- Install dependencies with `npm i`
 - Start each microfrontend with `npm start`
 
 ### Shell
 
+- Install dependencies with `npm i`
 - Start the shell with `npm start`
