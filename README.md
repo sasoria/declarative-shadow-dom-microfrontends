@@ -13,3 +13,5 @@ This example shows how to stream in microfrontends that are rendered on the serv
 
 - Install dependencies with `npm i`
 - Start the shell with `npm start`
+
+The example app should show up on http://localhost:3000
