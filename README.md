@@ -1,6 +1,6 @@
 # Microfrontends with Declarative Shadow Dom
 
-This example shows how to stream in microfrontends that are rendered on the server. The microfrontends are composed on the server and streamed in out of order.
+This example shows how to stream in microfrontends that are rendered on the server using Declarative Shadow Dom. The microfrontends are composed on the server and streamed in out of order.
 
 ## Usage
 
