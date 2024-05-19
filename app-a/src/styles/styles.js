@@ -11,23 +11,8 @@ export const globalStyles = () => html`
 
 export const appStyles = () => html`
   <style>
-    header,
-    main,
-    footer {
+    section {
       padding: 1rem;
-    }
-
-    header,
-    footer {
-      background-color: var(--color-primary);
-      color: white;
-    }
-
-    header {
-      h1 {
-        margin: 0;
-        font-size: 1.5rem;
-      }
     }
   </style>
 `;
